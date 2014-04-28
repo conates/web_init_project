@@ -16,6 +16,7 @@
   "dependencies": {
     "jquery": "latest",
     "modernizr":"latest",
-    "prefixfree":"latest"
+    "prefixfree":"latest",
+    "normalize.styl":"latest"
   }
 }
