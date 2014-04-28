@@ -17,6 +17,5 @@
     "jquery": "latest",
     "modernizr":"latest",
     "prefixfree":"latest"
-  },
-  "directory": "js/vendor"
+  }
 }
